@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tangchony
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me ...
 
 <!---
